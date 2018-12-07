@@ -12,7 +12,7 @@ This is actually an amazing python script, the author of which is exactly me. We
 Well you might copy the script to your or online python 3 compiler and can run to check if it works. 
 And also you could try to decypher it...
 
-[Click to view Code](https://github.com/ashish7zeph/Incredible/blob/master/Scary%20hello%20world/hello_world.py)
+[Click to view Code >](https://github.com/ashish7zeph/Incredible/blob/master/Scary%20hello%20world/hello_world.py)
 
 ![](https://cdn-images-1.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 
